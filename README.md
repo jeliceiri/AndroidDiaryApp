@@ -5,6 +5,4 @@ This is an Android Studio diary app which utilizes web services, location, googl
 
 ![Input File](DiaryAppExample.png)
 
-* How the app works
-
-![Running the program](HowDiaryAppWorks.pdf)
+* ![How the App Works](HowDiaryAppWorks.pdf)
