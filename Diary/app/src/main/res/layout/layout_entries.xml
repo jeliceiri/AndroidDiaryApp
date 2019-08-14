@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_entries"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/entriesListTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/diary_entries"
+        android:textAlignment="center" />
+
+    <ListView
+        android:id="@+id/listViewEntries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

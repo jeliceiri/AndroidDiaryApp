@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="view_all">View All</string>
+    <string name="create_new_entry">Create New Entry</string>
+    <string name="search">Search</string>
+    <string name="diary_entries">Diary Entries</string>
+    <string name="save">Save</string>
+    <string name="subject">Subject</string>
+    <string name="content">Content</string>
+    <string name="date">Date</string>
+    <string name="edit_subject">Edit Subject</string>
+    <string name="edit_content">Edit Content</string>
+    <string name="edit_modified_date">Edit Modified Date</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="search_icon">search icon</string>
+    <string name="date_modified">Date Modified</string>
+    <string name="edit_date_modified">Edit Date Modified</string>
+    <string name="contentEdit">Content:</string>
+    <string name="subjectLabel">Subject:</string>
+    <string name="date_modified_label">Date Modified:</string>
+    <string name="map_view">Map View</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="create_new_password">Create New Password</string>
+</resources>
